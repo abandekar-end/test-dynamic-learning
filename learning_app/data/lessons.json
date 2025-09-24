@@ -1,0 +1,119 @@
+[
+  {
+    "id": "math_foundations_numbers",
+    "topic": "Mathematics",
+    "title": "Number Sense Foundations",
+    "description": "Revisit place value, rounding, and mental addition strategies to build confidence with numbers.",
+    "difficulty": 1,
+    "duration": "15 minutes",
+    "activities": [
+      "Watch a short explainer on place value",
+      "Complete 5 quick estimation challenges",
+      "Log one real-life example of mental math"
+    ]
+  },
+  {
+    "id": "math_problem_solving",
+    "topic": "Mathematics",
+    "title": "Problem-Solving Warmups",
+    "description": "Use multi-step reasoning to solve contextualised puzzles and word problems.",
+    "difficulty": 2,
+    "duration": "20 minutes",
+    "activities": [
+      "Solve three scenario-based puzzles",
+      "Reflect on which heuristics worked best",
+      "Create a mini-puzzle to share with a friend"
+    ]
+  },
+  {
+    "id": "math_extensions_models",
+    "topic": "Mathematics",
+    "title": "Modeling with Data",
+    "description": "Use proportional reasoning to interpret graphs and build a simple predictive model.",
+    "difficulty": 3,
+    "duration": "25 minutes",
+    "activities": [
+      "Analyse a real-world dataset snapshot",
+      "Build a quick estimate using ratios",
+      "Draft one lingering question for deeper study"
+    ]
+  },
+  {
+    "id": "science_observation",
+    "topic": "Science",
+    "title": "Scientific Observation Sprint",
+    "description": "Practice noticing and describing phenomena with the language of science.",
+    "difficulty": 1,
+    "duration": "15 minutes",
+    "activities": [
+      "Observe an everyday object and record detailed notes",
+      "Identify the variables you could test",
+      "Summarise findings in two sentences"
+    ]
+  },
+  {
+    "id": "science_experiments",
+    "topic": "Science",
+    "title": "Mini Experiments Lab",
+    "description": "Design and reflect on bite-sized experiments that emphasise cause and effect.",
+    "difficulty": 2,
+    "duration": "20 minutes",
+    "activities": [
+      "Choose a home-friendly experiment prompt",
+      "Document predictions versus outcomes",
+      "Share one insight with a peer or journal"
+    ]
+  },
+  {
+    "id": "science_systems_thinking",
+    "topic": "Science",
+    "title": "Systems Thinking Challenge",
+    "description": "Trace feedback loops and energy flow within an ecosystem or engineered system.",
+    "difficulty": 3,
+    "duration": "25 minutes",
+    "activities": [
+      "Map the components of the chosen system",
+      "Highlight two feedback loops",
+      "Identify a leverage point for change"
+    ]
+  },
+  {
+    "id": "history_storytelling",
+    "topic": "History",
+    "title": "History as Story",
+    "description": "Reconstruct a historical moment by piecing together perspectives and primary clues.",
+    "difficulty": 1,
+    "duration": "15 minutes",
+    "activities": [
+      "Skim a short historical vignette",
+      "List the voices represented and missing",
+      "Write a 3-sentence retelling"
+    ]
+  },
+  {
+    "id": "history_analysis",
+    "topic": "History",
+    "title": "Causation Detective",
+    "description": "Investigate chain reactions that led to a major event and critique different interpretations.",
+    "difficulty": 2,
+    "duration": "20 minutes",
+    "activities": [
+      "Build a cause-and-consequence diagram",
+      "Assess the strength of two sources",
+      "Pose a counterfactual question"
+    ]
+  },
+  {
+    "id": "history_horizons",
+    "topic": "History",
+    "title": "Global Connections Seminar",
+    "description": "Trace how ideas, trade, and culture travelled across regions and shaped new possibilities.",
+    "difficulty": 3,
+    "duration": "25 minutes",
+    "activities": [
+      "Annotate a historical map",
+      "Compare two cultural exchanges",
+      "Record an insight relevant to today"
+    ]
+  }
+]
