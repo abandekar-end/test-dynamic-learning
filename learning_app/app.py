@@ -328,7 +328,16 @@ class LearningApp(tk.Tk):
 
 
 def main() -> None:
-    app = LearningApp()
+    try:
+        app = LearningApp()
+    except tk.TclError as exc:
+        print(
+            "Unable to start the Continuum Learning Companion because no graphical "
+            "display is available."
+        )
+        print("Ensure you are running in an environment with an X server/GUI.")
+        print(f"Tkinter error: {exc}")
+        return
     app.mainloop()
 
 
